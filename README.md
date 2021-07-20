@@ -10,5 +10,4 @@
 - Dela upp sidan i 3 sektioner (kategorier) enligt följande 
 1. Women clothing
 2. Men clothing
-3. Jewelery  
-> (OBS! Du ska inte visa ”Electronics” (enbart ovanstående kategorier))
+3. Jewelery   (OBS! Du ska inte visa ”Electronics” (enbart ovanstående kategorier))
