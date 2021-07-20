@@ -2,7 +2,7 @@
 https://fakestore-projekt.herokuapp.com/
 
 PHP kurs
-Uppgift:
+>Uppgift:
 - Arbeta med FakeStoreAPI https://fakestoreapi.com/
 - Använd följande resurs/endpoint https://fakestoreapi.com/products
 - Skapa en responsiv webbsida som presenterar ett antal produkter i en valfri layout.
