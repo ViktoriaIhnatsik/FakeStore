@@ -1,5 +1,5 @@
 # FakeStore
-https://fakestore-projekt.herokuapp.com/
+[link to Fakestore!](https://fakestore-projekt.herokuapp.com/)
 
 **PHP kurs**
 >Uppgift:
