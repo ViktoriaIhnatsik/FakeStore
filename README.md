@@ -1,7 +1,7 @@
 # FakeStore
 https://fakestore-projekt.herokuapp.com/
 
-PHP kurs
+**PHP kurs**
 >Uppgift:
 - Arbeta med FakeStoreAPI https://fakestoreapi.com/
 - Använd följande resurs/endpoint https://fakestoreapi.com/products
