@@ -3,6 +3,8 @@
 
  **PHP kurs**
 >Uppgift:
+Individuell inlämningsuppgift 
+
 - Arbeta med FakeStoreAPI https://fakestoreapi.com/
 - Använd följande resurs/endpoint https://fakestoreapi.com/products
 - Skapa en responsiv webbsida som presenterar ett antal produkter i en valfri layout.
