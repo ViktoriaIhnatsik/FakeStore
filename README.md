@@ -3,7 +3,6 @@
 
  **PHP kurs**
 >Uppgift:
-
 Individuell inlämningsuppgift 
 
 - Arbeta med FakeStoreAPI https://fakestoreapi.com/
